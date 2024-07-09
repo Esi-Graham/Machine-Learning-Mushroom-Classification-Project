@@ -2,15 +2,6 @@
 A mushroom is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground, on soil, or on its food source.
 Some mushrooms are poisonous while others are poisonous. In this project, we seek to classify mushroom as edible or not edible for healthy consumption.
 
-### Table of Content
-1. Importation of Packages
-2. Data Importation
-3. Sanity Checks
-4. Exploratory data analysis
-5. Feature engineering
-6. Train Test Split and Transformations
-7. Model Building , Model evaluation:Classification Reports and Confusion Matrix
-
 ### Data Source
 https://www.kaggle.com/datasets/prishasawhney/mushroom-dataset
 
@@ -67,3 +58,12 @@ This dataset includes descriptions of hypothetical samples corresponding to 23 s
 The goal of this project was to build a mush room classification model that predicts if a mushroom is poisonous or edible.
 Exploratory Data Analysis and Feature Engineering techniques were performed on the dataset for an effective model.
 Metrics such as the confusion matrix and classification report were also used to evaluate the models.
+
+### Jupyter Notebook Outline
+1. Importation of Packages
+2. Data Importation
+3. Sanity Checks
+4. Exploratory data analysis
+5. Feature engineering
+6. Train Test Split and Transformations
+7. Model Building , Model evaluation:Classification Reports and Confusion Matrix
